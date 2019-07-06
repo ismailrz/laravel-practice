@@ -1,0 +1,35 @@
+
+/*
+Override css
+*/
+
+
+/*  product CSS  */
+.product-item{
+
+background: #8cb5e8;
+}
+/* End product CSS  */
+
+
+.child-rows{
+  padding-left: 20px;
+  border-left: 1px solid #dfdfdf;
+  background: #FFF;
+}
+
+.bg-light{
+  background-color: #29558c!important;
+}
+
+
+.margin-top-20{
+  margin-top: 20px;
+}
+
+.footer-bottom{
+
+  margin-top: 20px;
+  padding: 20px;
+  background: #145fec;
+}
